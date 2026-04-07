@@ -1,0 +1,6 @@
+{
+  "appId": "com.ahmed.ert",
+  "appName": "ERT",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

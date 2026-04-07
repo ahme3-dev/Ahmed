@@ -1,0 +1,15 @@
+{
+  "name": "ert-game",
+  "version": "2.1.0",
+  "description": "ERT Survival Horror Game",
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest"
+  },
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  }
+}
